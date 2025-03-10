@@ -1,4 +1,4 @@
-python                    3.10.8
+python                   
 
 protobuf                  5.29.3
 numpy                     1.26.4
